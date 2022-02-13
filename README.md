@@ -10,5 +10,6 @@ The website we have developed :
 Starting on Thursday, January 03 2022.
 - [03-1] Recap Kinerjamawa Kemahasiswaan UNY : https://kinerjamawa.presma.uny.ac.id
 - [28-1] LIKMI (Lomba Inovasi Kewirausahaan Mahasiswa Indonesia UNY) : https://likmi.uny.ac.id
+- [24-2] Kempo UNY : https://kempo.uny.ac.id
 #
 officially website kiarta-ID : https://kiarta.id
